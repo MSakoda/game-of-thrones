@@ -1,0 +1,57 @@
+* {
+  padding:0px;
+  margin:0px;
+}
+
+html {
+  background-image:url("http://static1.squarespace.com/static/52fc05c9e4b08fc45bd99090/5331dfe2e4b0f77da2ddde51/56ccccfe40261d9c2e3601a4/1456334456046/?format=1000w");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#wrapper {
+  width:970px;
+  height:1000px;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+#house-wrapper {
+  width: 970px;
+  /*height:150px;*/
+  /*background: coral;*/
+  margin:20px 0;
+}
+
+img {
+  margin-right:52.5px;
+  width: 200px;
+  vertical-align: middle;
+  box-shadow: 3px 3px 3px black
+}
+img:last-child {
+  margin-right:0px;
+}
+
+#info {
+  margin-left:auto;
+  margin-right:auto;
+  width: 870px;
+  /*height:500px;*/
+  background-image:url("https://s-media-cache-ak0.pinimg.com/736x/53/b4/44/53b444ea99a7b8c7e90631ea6e81e877.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 3px 3px 3px black;
+  /*border: 5px solid black;*/
+  padding-top:20px;
+}
+
+#info p {
+  margin:30px;
+  font-size:2em;
+  font-family: fantasy;
+}
+
+#info p:last-child {
+  padding-bottom:30px;
+}
